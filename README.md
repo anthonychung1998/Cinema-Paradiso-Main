@@ -12,7 +12,7 @@ Check out [FRONTEND LIVE DEMO](/) here!!
 
 Check out [API LIVE DEMO](/) here!!
 
-## Tech used
+## Tech used.
 
 ```
 * Frontend : React & Redux
